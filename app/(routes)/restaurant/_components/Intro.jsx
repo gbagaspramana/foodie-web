@@ -12,6 +12,7 @@ function Intro({ restaurant }) {
             width={1000}
             height={300}
             alt="banner"
+            loading="lazy"
             className="w-full h-[220px] object-cover rounded-xl"
           />
         </div>
